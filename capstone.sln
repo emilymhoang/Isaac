@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "capstone(17)", "..\..\..\Downloads\Sprint 2 Demo 1152019\Sprint 2 Demo(1)\Sprint 2 Demo\capstone 11.4 5pm\capstone 11.4 1147am\capstone 11.4 1147am\capstone\", "{2B43497D-726B-4B75-9DD5-2722AC55D347}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49701"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Downloads\Sprint 2 Demo 1152019\Sprint 2 Demo(1)\Sprint 2 Demo\capstone 11.4 5pm\capstone 11.4 1147am\capstone 11.4 1147am\capstone\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49701\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49701"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Downloads\Sprint 2 Demo 1152019\Sprint 2 Demo(1)\Sprint 2 Demo\capstone 11.4 5pm\capstone 11.4 1147am\capstone 11.4 1147am\capstone\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49701\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49701"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B43497D-726B-4B75-9DD5-2722AC55D347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B43497D-726B-4B75-9DD5-2722AC55D347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDD5D618-2DDA-426B-954B-EC5B12A736CD}
+	EndGlobalSection
+EndGlobal
